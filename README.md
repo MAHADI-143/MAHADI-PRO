@@ -18,7 +18,7 @@
 
 `cd MAHADI-PRO`
 
-`python2 MAHADI-PRO.py`
+`python MAHADI-PRO.py`
 
 ## Prove
 
