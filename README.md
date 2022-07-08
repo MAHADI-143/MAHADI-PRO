@@ -14,11 +14,11 @@
 
 `pip install mechanize`
 
-`git clone https://github.com/MAHADI-143/Mahadi-Pro`
+`git clone https://github.com/MAHADI-143/MAHADI-PRO`
 
-`cd Mahadi-Pro`
+`cd MAHADI-PRO
 
-`python2 Mahadi-Pro.py`
+`python2 MAHADI-PRO.py`
 
 ## Prove
 
