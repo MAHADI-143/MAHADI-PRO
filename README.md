@@ -16,7 +16,7 @@
 
 `git clone https://github.com/MAHADI-143/MAHADI-PRO`
 
-`cd MAHADI-PRO
+`cd MAHADI-PRO`
 
 `python2 MAHADI-PRO.py`
 
