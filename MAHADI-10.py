@@ -7,8 +7,5 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from mahadi10 import Subscraption
-    Subscraption()
-elif bit == '32bit':
-    from mahadi import menu
+    from mahadi10 import menu
     menu()
